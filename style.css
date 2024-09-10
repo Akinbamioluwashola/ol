@@ -1,0 +1,13 @@
+h1 { 
+    font-size: xx-large;
+    color:brown;
+}
+p {
+    font-style: oblique;
+    color: beige;
+}
+table{
+    border-color: antiquewhite;
+    border: 0px;
+    border-width: 0px;
+}
